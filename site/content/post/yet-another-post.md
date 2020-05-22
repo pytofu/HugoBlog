@@ -4,3 +4,4 @@ draft = true
 title = "Yet another post"
 
 +++
+This is another sample post
