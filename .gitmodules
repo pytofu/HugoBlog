@@ -1,0 +1,3 @@
+[submodule "site/themes/kiss-em"]
+	path = site/themes/kiss-em
+	url = https://github.com/pytofu/kiss-em.git
