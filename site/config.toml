@@ -4,7 +4,7 @@ disqusShortname = "spf13"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
-theme = "kiss-em"
+theme = "hugo-theme-casper"
 title = "Casper Theme"
 [params]
 RSSLink = "http://feeds.feedburner.com/..."
